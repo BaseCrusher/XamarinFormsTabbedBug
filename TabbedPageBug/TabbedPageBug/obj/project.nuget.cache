@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hvaLpECJK1Bf+h+CnKSpbbZjDd97CfRLKH7XVJ+jbdwj5pThmEUj2ztTGdBwdPLqO5fRNaJEcCbIQfYBD4Gjg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\BaseCrusher-PC\\Desktop\\TabbedPageBug\\TabbedPageBug\\TabbedPageBug\\TabbedPageBug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

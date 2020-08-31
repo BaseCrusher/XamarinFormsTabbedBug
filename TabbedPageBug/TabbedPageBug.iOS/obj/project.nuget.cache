@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4izomk2VCSV7wvMQPMJNQRkYZOtII2JqQYtsk0bEiO/8v3ud8Ao5p6vQ8Rs85toJsYD2EPTYyQm5G8JgsIqLgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\BaseCrusher-PC\\Desktop\\TabbedPageBug\\TabbedPageBug\\TabbedPageBug.iOS\\TabbedPageBug.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\BaseCrusher-PC\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

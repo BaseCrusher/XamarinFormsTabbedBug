@@ -1,0 +1,17 @@
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\bin\Debug\netstandard2.0\TabbedPageBug.deps.json
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\bin\Debug\netstandard2.0\TabbedPageBug.dll
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\bin\Debug\netstandard2.0\ref\TabbedPageBug.dll
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\bin\Debug\netstandard2.0\TabbedPageBug.pdb
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.csprojAssemblyReference.cache
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.AssemblyInfoInputs.cache
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.AssemblyInfo.cs
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.csproj.CoreCompileInputs.cache
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.dll
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\ref\TabbedPageBug.dll
+D:\Users\BaseCrusher-PC\Desktop\TabbedPageBug\TabbedPageBug\TabbedPageBug\obj\Debug\netstandard2.0\TabbedPageBug.pdb
